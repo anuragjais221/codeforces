@@ -1,0 +1,28 @@
+top cost = 1
+top cost = 5
+top cost = 4
+top cost = 2
+top cost = 5
+5
+top cost = 5
+top cost = 3
+top cost = 7
+top cost = 9
+top cost = 11
+top cost = 13
+top cost = 15
+top cost = 17
+top cost = 19
+19
+top cost = 11
+top cost = 11
+top cost = 12
+top cost = 12
+top cost = 13
+top cost = 13
+top cost = 14
+14
+top cost = 1
+top cost = 1
+top cost = 2
+2
